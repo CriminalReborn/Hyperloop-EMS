@@ -1,6 +1,3 @@
 test post, please ignore - kyle 2k16
-<<<<<<< HEAD
-the quick brown fox jumps over the lazy dog 
-=======
+harder, better, faster, donger
 I WILL NEVER IGNORE THIS - zach 2k16
->>>>>>> 07ab2711d785edf07227b997ff15ea9feae236e9
